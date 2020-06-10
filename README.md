@@ -37,6 +37,11 @@ contara con dos tipos de usuarios y vistas:
 
         - usuario normal.
 
+- **conectar con dispositivos IoT:** 
+
+    - dispositivos IoT (sensores, mecanismos de bloqueo) que sirvan para identificar y bloquear/permitir el paso en el espacio asignado del estacionamiento. y a su vez envian informacion al sistema para sincronizar su informacion.
+
+
 ## Necesidades que cubre nuestro proyecto
 
 - poder tener un sistema tecnologico funcionando las 24h donde gestione y controle un estacionamiento.
@@ -63,6 +68,8 @@ contara con dos tipos de usuarios y vistas:
 ## Valor añadido
 
 - Poder conectar todo gracias a IoT, ofreciendo estadisticas y una gestion y administración practica comodamente desde una oficina.
+
+- Como es un sistema dinamico, se puede implementar facilmente a las necesidades del cliente convirtiendolo en un sistema para gestion de otras cosas como por ejemplo (sistema para abrir y cerrar las puertas del establecimiento).
 
 
 # Historias de usuario
