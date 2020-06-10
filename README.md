@@ -74,7 +74,9 @@ contara con dos tipos de usuarios y vistas:
 
 # Historias de usuario
 
+las historias de usuario estan hechas en trello, puede verlas desde el siguiente link:
 
+- [Historias de Usuario](https://trello.com/b/rBTDUsPz/historias-de-usuario-easyparking)
 
 
 # Autor
