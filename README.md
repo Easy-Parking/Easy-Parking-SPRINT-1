@@ -74,10 +74,17 @@ contará con dos tipos de usuarios y vistas:
 
 ## Nicho de Mercado
 
-- Establecimientos grandes como:
+- Establecimientos grandes con IoT como:
     - Centros Comerciales.
     - edificios corporativos.
     - conjuntos residenciales.
+    
+- Establecimientospequeños/medianos implementandoles IoT (sensores basicos):
+    - parqueaderos de barrios.
+    - estacionamientos de:
+     - restaurantes
+     - parques
+     - conjuntos pequeños
 
 ## Principales Competidores
 
