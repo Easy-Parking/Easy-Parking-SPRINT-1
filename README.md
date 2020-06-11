@@ -10,7 +10,7 @@
 
 Easy Parking - Sistema de gestión de Estacionamiento para Establecimientos
 
-Esta es una aplicación web diseñada para darle un soporte de gestión totalmente tecnológico integrando los sistemas IoT (Internet of Things) del establecimiento consiguiendo el máximo beneficio, productividad y control.
+Esta es una aplicación web diseñada para darle un soporte de gestión totalmente tecnológico y perzonalizado integrando los sistemas IoT (Internet of Things) del establecimiento consiguiendo el máximo beneficio, productividad y control.
 
 # Descripción
 
